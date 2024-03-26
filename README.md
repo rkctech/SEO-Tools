@@ -43,3 +43,6 @@ Here is the list of SEO tools and resources along with brief explanations about 
 21. [Page Title & Meta Description Length Checker by higher visibility](https://www.highervisibility.com/seo/tools/serp-snippet-optimizer/): This tool checks the character length of page titles and meta descriptions to ensure they meet Google's recommended limits for optimal display in search results.
 
 22. [Ad Library by Facebook](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=IN&media_type=all): Facebook's Ad Library provides insights into ads running on the platform, including political and issue-related ads, aiding in competitive analysis and ad strategy planning.
+
+# Web development tools
+1. [Google Font ] (https://fonts.google.com/)
