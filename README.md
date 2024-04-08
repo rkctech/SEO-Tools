@@ -46,3 +46,6 @@ Here is the list of SEO tools and resources along with brief explanations about 
 
 # Web development tools
 1. [Google Font](https://fonts.google.com/)
+2. [Live chat](https://app.hubspot.com/user-guide/45804950?via=home)
+3. [Live chat](https://www.tawk.to/)
+   
