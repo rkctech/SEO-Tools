@@ -46,6 +46,10 @@ Here is the list of SEO tools and resources along with brief explanations about 
 23. [Ad Library by Facebook](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=IN&media_type=all): Facebook's Ad Library provides insights into ads running on the platform, including political and issue-related ads, aiding in competitive analysis and ad strategy planning.
     
 24. [URL to create a sitemap](https://www.xml-sitemaps.com/)
+25. [Free Web Submission](https://www.freewebsubmission.com/): Do not submit Your website less than 70 DA & Spam Score will be less than 10 %.
+26. [free Classified Submission](https://www.thewebhospitality.com/free-classified-submission-sites-list/)
+27. 
+28. 
 
 # Web development tools
 1. [Google Font](https://fonts.google.com/)
