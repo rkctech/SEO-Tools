@@ -49,7 +49,7 @@ Here is the list of SEO tools and resources along with brief explanations about 
 25. [Free Web Submission](https://www.freewebsubmission.com/): Do not submit Your website less than 70 DA & Spam Score will be less than 10 %.
 26. [free Classified Submission](https://www.thewebhospitality.com/free-classified-submission-sites-list/)
 27. [Create Backling](https://www.expert-seo-training-institute.in/blog/) : SS: less than 6% & DA: greater than 35 
-28. 
+28. [Virus Checker](https://www.virustotal.com/gui/home/upload)
 
 # Web development tools
 1. [Google Font](https://fonts.google.com/)
